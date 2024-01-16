@@ -1,0 +1,38 @@
+h1{
+	font-family: arial;
+	color: dimgray;
+}
+body{
+	font-family: arial;
+	min-height: 100vh;
+}
+div{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+canvas{
+	position: relative;
+	height: 400px;
+	border: 1px solid lightgray;
+}
+input[type="file"]{
+	font-size: 14pt;
+	background: dimgray;
+}
+input[type="file"]:focus{
+	background: #546454;
+}
+input[type="button"]{
+	color: #eee;
+	background: dimgray;
+}
+.copyRightText
+{
+    width: 100%;
+    background: #181818;
+    padding: 8px 4px;
+    text-align: center;
+    color: #999;
+}
