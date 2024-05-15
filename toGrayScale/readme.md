@@ -1,0 +1,1 @@
+O objetivo destes códigos é converter uma imagem para escalas de cinza
